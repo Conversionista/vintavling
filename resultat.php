@@ -115,10 +115,25 @@ $criticaltvalue = 1.960;
         <meta name="description" content="<?php echo $config[site][description]; ?>">
         <meta name="viewport" content="width=device-width">
         <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">    
-    <link rel="canonical" href="<?php echo $config[site][URL]; ?>" />
-    <link rel="publisher" href="https://plus.google.com/105493150503708147852/"/>
+        <link rel="canonical" href="<?php echo $config[site][URL]; ?>" />
+        <link rel="publisher" href="https://plus.google.com/105493150503708147852/"/>
         <link rel="stylesheet" type="text/css" media="all" href="http://legacy.conversionista.se/lp/styles/main.css"/>
         <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.min.js"></script>
+        <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png">
+        <link rel="icon" type="image/png" href="favicon-196x196.png" sizes="196x196">
+        <link rel="icon" type="image/png" href="favicon-160x160.png" sizes="160x160">
+        <link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+        <meta name="msapplication-TileColor" content="#c61618">
+        <meta name="msapplication-TileImage" content="mstile-144x144.png">
     </head>
     <body style="margin-top:3em;">
         <!--[if lt IE 7]>
@@ -215,7 +230,7 @@ while ($row = mysql_fetch_array($array_c)) {
 
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script type="text/javascript" src="Chart.min.js"></script>
+    <script type="text/javascript" src="inc/Chart.min.js"></script>
     <script>
 Chart.defaults.global = {
     // Boolean - Whether to animate the chart
