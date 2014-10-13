@@ -2,7 +2,10 @@ The Conversionista Wine Contest
 ===
 Create a file named `db_config.php` in the inc folder. Define all required parameters:
 
-
+  	$username = "";
+	$password = "";
+	$hostname = "";
+	$database = "";
 
 Create a new database
 
