@@ -1,0 +1,28 @@
+site:
+  title: Conversionistas Vintävling!
+  description: Tävlingen är enkel – Den person som gissar näramast vinner en fin flaska vin.
+  browserHappy: Du använder en <strong>uråldrig</strong> webbläsare. <a href="http://browsehappy.com/">Uppdatera din webbläsare</a> eller <a href="http://www.google.com/chromeframe/?redirect=true">aktivera Google Chrome Frame</a> för att förbättra din webbupplevelse.
+  copyright: &copy; Conversionista! 2014
+  URL: http://tavling.conversionista.se/
+
+content:
+  headline: Vinn vinflaskan!
+  subheadline: Gissa priset, närmast vinner.
+  intro: <i>Conversionista</i> anordnar under Conversion Jam en liten vintävling. <b>Tävlingen är enkel:</b> Den person som gissar rätt eller näramast vinner vinflaskan här nedanför.
+  image:
+    src: http://assets.conversionista.se/img/chateau220x392.png
+    alt: Château
+  contestInfo: <strong>Tävlingsinformation</strong> <i>Conversionista</i> anordnar en vintävling under Conversion Jam.<br />För tävlingsfrågor vänligen mejla <a href="mailto:sarah@conversionista.se">sarah@conversionista.se</a>.<br/><i>Eventuell vinstskatt betalas av vinnaren</i>. Vinsten betalas ut i form av ett presentkort. Genom att delta i tävlingen så läggs du automatiskt till på vår epostlista.
+  wineInfo: <strong>INFO</strong> Vinet är en Bordeaux och är len, god med inslag av e-handel.
+
+twitter:
+  URL: http://tavling.conversionista.se/
+  title: Vinn en fin flaska vin med Conversionista på Conversion Jam!
+  description: Conversionista anordnar en tävling under Conversion Jam
+  image: 
+    src: http://assets.conversionista.se/img/chateau220x392.png
+    width: 220
+    height: 392
+
+  siteAccount: conversionista
+  creatorAccount: conversionista
